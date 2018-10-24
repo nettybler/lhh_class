@@ -10,7 +10,7 @@ alert ("good luck!");
         alert("go down and hurry!");
     }
     else {
-        alert("You got it!");
+        alert("good work agent");
         done = true;
     }
-}
+} 
